@@ -1,2 +1,2 @@
 # Tweet_Analyzer_Demo
-Program that analyzes tweets. Analyse common words and tweet sentiments.
+Program that analyzes tweets. Analyse common words in searched tweet.
