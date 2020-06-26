@@ -1,8 +1,8 @@
 # Tweet_Analyzer_Demo
 Python script that analyzes tweets. Counts frequency of common words in searched tweet.
 
-# Requirements
-# Libraries 
+## Requirements
+### Libraries 
 (1) Tweepy (For accessing Twitter API)
 (2) pandas
 (3) nltk
@@ -10,7 +10,7 @@ Python script that analyzes tweets. Counts frequency of common words in searched
 (5) collections
 (6) matplotlib
 
-# Twitter API
+### Twitter API
 (1) api_key
 (2) api_secret
 
