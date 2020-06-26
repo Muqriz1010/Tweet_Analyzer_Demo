@@ -10,6 +10,13 @@ Python script that analyzes tweets. Counts frequency of common words in searched
 (5) collections
 (6) matplotlib
 
+**Libraries:**  
+- Python 3.0 or higher
+- Twython
+- NLTK
+- Textblob
+- Wordcloud
+
 ### Twitter API
 (1) api_key
 (2) api_secret
