@@ -2,28 +2,22 @@
 Python script that analyzes tweets. Counts frequency of common words in searched tweet.
 
 ## Requirements
-### Libraries 
-(1) Tweepy (For accessing Twitter API)
-(2) pandas
-(3) nltk
-(4) nltk.corpus 
-(5) collections
-(6) matplotlib
-
 **Libraries:**  
 - Python 3.0 or higher
-- Twython
-- NLTK
-- Textblob
-- Wordcloud
+- tweepy
+- pandas
+- nltk
+- nltk
+- collections
+- matplotlib
 
-### Twitter API
-(1) api_key
-(2) api_secret
+**Twitter API:**  
+- api_key
+- api_secret
 
-(3) access_token
-(4) access_token_secret
+- access_token
+- access_token_secret
 
-(5) application for api at https://developer.twitter.com/en
+application for api at https://developer.twitter.com/en
 
 
