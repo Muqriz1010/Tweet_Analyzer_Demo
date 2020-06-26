@@ -6,7 +6,7 @@ Python script that analyzes tweets. Counts frequency of common words in searched
 - Python 3.0 or higher
 - tweepy
 - pandas
-- nltk
+- nltk 
 - nltk
 - collections
 - matplotlib (Visualization)
