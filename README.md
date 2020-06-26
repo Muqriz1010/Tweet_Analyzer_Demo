@@ -20,10 +20,10 @@ Python script that analyzes tweets. Counts frequency of common words in searched
 
 request application for api at https://developer.twitter.com/en
 
-## How to use
-- 1. Clone git
-- 2. Make sure all requirements are satisfied. Require libraries can be installed through ` pip install ` 
-- 3. Change search keyword in twitter_analyzer_main.py 
+## How to use:
+ 1. Clone git
+ 2. Make sure all requirements are satisfied. Required libraries can be installed through ` pip install ` 
+ 3. Change search keyword in twitter_analyzer_main.py 
 `keyword = <search_keyword>` 
 
 
